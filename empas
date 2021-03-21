@@ -24,39 +24,39 @@ cek(){
 }
 banner(){
 clear
-echo -e "$g╔══════════════════════════════════════╗    " | pv -qL 600
-echo -e "$g║  ${y}Selamat Datang Di Empas Limit       $g║"| pv -qL 600
-echo -e "$g╚══════════════════════════════════════╝"| pv -qL 600
-echo -e "$yl██     ██ ██▄   ▄██ ██ ████████             "  | pv -qL 600
-echo -e "$yl██     ▄▄ ██▀█▄█▀██ ▄▄    ██  ╔═╗   ╔═╔═    "    | pv -qL 600
-echo -e "$yl██     ██ ██  ▀  ██ ██    ██  ╚═╣╣ ╣╠═╠═╔═╗ "       | pv -qL 600
-echo -e "$yl██████ ██ ██     ██ ██    ██    ╚╚═╝╚═╚═╣ ╣"| pv -qL 600
+echo -e "$g╔══════════════════════════════════════╗     "   | pv -qL 600
+echo -e "$g║  ${y}Selamat Datang Di Empas Limit $g║     "   | pv -qL 600
+echo -e "$g╚══════════════════════════════════════╝     "   | pv -qL 600
+echo -e "$yl██     ██ ██▄   ▄██ ██ ████████             "   | pv -qL 600
+echo -e "$yl██     ▄▄ ██▀█▄█▀██ ▄▄    ██                "   | pv -qL 600
+echo -e "$yl██     ██ ██  ▀  ██ ██    ██                "   | pv -qL 600
+echo -e "$yl██████ ██ ██     ██ ██    ██                "   | pv -qL 600
 echo -e "$g╔══════════════════════════════════════════════╗"| pv -qL 600
-echo -e "$y Author   : Randy Gamteng     Github   : -"| pv -qL 600
-echo -e "$y WhatsApp : 083133949147          "| pv -qL 600
-echo -e "$y Facebook : Randy X Ganz            T | A | J"| pv -qL 600
-echo -e "$y                                    E | N | B"| pv -qL 600
-echo -e "$y Follow IG gua ngetot               A | A |"| pv -qL 600
-echo -e "$y  =>  @ran_dy1262                   M | K |"| pv -qL 600
+echo -e "$y Author   : Randy Gamteng     Github   : -   "   | pv -qL 600
+echo -e "$y WhatsApp : 083133949147                     "   | pv -qL 600
+echo -e "$y Facebook : Randy X Ganz            T | A | J"   | pv -qL 600
+echo -e "$y                                    E | N | B"   | pv -qL 600
+echo -e "$y Follow IG gua ngetot               A | A |  "   | pv -qL 600
+echo -e "$y  =>  @ran_dy1262                   M | K |  "   | pv -qL 600
 echo -e "$g╚══════════════════════════════════════════════╝"| pv -qL 600
 }
 
 banner2(){
 clear
-echo -e "$g╔══════════════════════════════════════╗    " | pv -qL 600
-echo -e "$g║  ${y}Sampai jumpa, Empas Limit           $g║"| pv -qL 600
-echo -e "$g╚══════════════════════════════════════╝"| pv -qL 600
-echo -e "$yl██     ██ ██▄   ▄██ ██ ████████             "  | pv -qL 600
-echo -e "$yl██     ▄▄ ██▀█▄█▀██ ▄▄    ██  ╔═╗   ╔═╔═    "    | pv -qL 600
-echo -e "$yl██     ██ ██  ▀  ██ ██    ██  ╚═╣╣ ╣╠═╠═╔═╗ "       | pv -qL 600
-echo -e "$yl██████ ██ ██     ██ ██    ██    ╚╚═╝╚═╚═╣ ╣"| pv -qL 600
+echo -e "$g╔══════════════════════════════════════╗     "   | pv -qL 600
+echo -e "$g║  ${y}Sampai jumpa, Empas Limit     $g║     "   | pv -qL 600
+echo -e "$g╚══════════════════════════════════════╝     "   | pv -qL 600
+echo -e "$yl██     ██ ██▄   ▄██ ██ ████████             "   | pv -qL 600
+echo -e "$yl██     ▄▄ ██▀█▄█▀██ ▄▄    ██                "   | pv -qL 600
+echo -e "$yl██     ██ ██  ▀  ██ ██    ██                "   | pv -qL 600
+echo -e "$yl██████ ██ ██     ██ ██    ██                "   | pv -qL 600
 echo -e "$g╔══════════════════════════════════════════════╗"| pv -qL 600
-echo -e "$y Author   : Randy Gamteng     Github   : -"| pv -qL 600
-echo -e "$y WhatsApp : 083133949147          "| pv -qL 600
-echo -e "$y Facebook : Randy X Ganz            T | A | J"| pv -qL 600
-echo -e "$y                                    E | N | B"| pv -qL 600
-echo -e "$y Follow IG gua ngetot               A | A |"| pv -qL 600
-echo -e "$y  =>  @ran_dy1262                   M | K |"| pv -qL 600
+echo -e "$y Author   : Randy Gamteng     Github   : -   "   | pv -qL 600
+echo -e "$y WhatsApp : 083133949147                     "   | pv -qL 600
+echo -e "$y Facebook : Randy X Ganz            T | A | J"   | pv -qL 600
+echo -e "$y                                    E | N | B"   | pv -qL 600
+echo -e "$y Follow IG gua ngetot               A | A |  "   | pv -qL 600
+echo -e "$y  =>  @ran_dy1262                   M | K |  "   | pv -qL 600
 echo -e "$g╚══════════════════════════════════════════════╝"| pv -qL 600
 }
 
